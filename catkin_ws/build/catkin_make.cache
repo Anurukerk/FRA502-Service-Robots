@@ -1,0 +1,2 @@
+fra502
+-DCATKIN_DEVEL_PREFIX=/home/anurukirk/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/anurukirk/catkin_ws/install -G Unix Makefiles

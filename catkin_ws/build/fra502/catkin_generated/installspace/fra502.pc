@@ -1,0 +1,8 @@
+prefix=/home/anurukirk/catkin_ws/install
+
+Name: fra502
+Description: Description of fra502
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
